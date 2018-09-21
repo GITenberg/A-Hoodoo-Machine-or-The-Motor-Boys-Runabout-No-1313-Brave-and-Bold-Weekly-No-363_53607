@@ -5,7 +5,12 @@ contributor:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
+covers:
+- cover_type: archival
+  image_path: 53607-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53607#A-Hoodoo-Machine-or-The-Motor-Boys-Runabout-No-1313-Brave-and-Bold-Weekly-No-363
 gutenberg_issued: '2016-11-26'
 gutenberg_type: Text
 identifiers:
